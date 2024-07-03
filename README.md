@@ -1,1 +1,1 @@
-# homebrew-legacy-lua
+# Homebrew Tap for Legacy Lua
